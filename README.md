@@ -1,4 +1,4 @@
-# Models and Algorithms project
+# Statistical Machine Learning project
 The repository contains the final project carried out for the Statistical Machine Learning course at the University of Turin. <br>
 
 # License
